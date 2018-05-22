@@ -1,0 +1,53 @@
+"ADIS16448_BASEBOARD  Revised: Thursday, May 17, 2018"					
+          Revision: V1.0					
+					
+COWAROBOT					
+					
+					
+					
+					
+					
+"Bill Of Materials            May 17,2018      11:24:44"	Page1				
+					
+Item	Quantity	Reference	Part	{Description}	{PCB Footprint}
+______________________________________________					
+					
+1	2	"C1,C3"	12pF		
+2	15	"C2,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C17,C124,C125"	0.1uF		
+3	1	C4	10uF		
+4	1	C16	47uF		
+5	1	C18	33nF		
+6	5	"C19,C20,C21,C24,C25"	1uF		
+7	2	"C22,C23"	68uF		
+8	1	C123	1000pF		
+9	4	"D1,D2,D3,D4"	LESD9D3.3CT5G		
+10	1	D5	S310		
+11	1	D31	SMCJ70CA		
+12	1	F1	0437002.WR		
+13	2	"H1,H2"	Mechanical Hole		
+14	1	J1	CON6		
+15	1	J2	CON20A		
+16	1	J3	J_SMALL		
+17	1	J4	CON4		
+18	2	"LED1,LED2"	LED/GREEN		
+19	1	L1	LVS808040-101M-N		
+20	1	L4	DFP201610TF-4R7M		
+21	5	"R1,R2,R3,R4,R13"	4.7K		
+22	2	"R5,R16"	0R		
+23	2	"R6,R15"	2.2K		
+24	8	"R7,R14,R169,R170,R171,R172,R173,R174"	22R		
+25	4	"R8,R10,R11,R12"	100R		
+26	1	R9	120R		
+27	1	R17	470R		
+28	1	R18	10K		
+29	1	R19	750R		
+30	1	R20	3.3K		
+31	1	R21	0.091R		
+32	1	R168	1M		
+33	3	"TP1,TP2,TP3"	TP		
+34	1	U1	STM32F030C8T6		
+35	1	U2	BL1585B		
+36	1	U3	SP3232EET-L		
+37	1	U4	XL7035		
+38	1	U5	AZ1117EH-3.3		
+39	1	X1	8MHz		

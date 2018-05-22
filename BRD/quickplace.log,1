@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : ADI_BASEBOARD_V1.brd                          )
+(    Software Version : 16.6-2015S091                                 )
+(    Date/Time        : Tue May 15 13:52:30 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  D31 / DIODE BI-DIR TRIG_SMC_SMCJ70CA / SMC at (-40.8230 114.6134)
+         Placed symbol:  F1 / FUSE_R1206_0437002.WR / R1206 at (-33.7203 112.4389)
+         Placed symbol:  L4 / INDUCTOR IRON_0_DFP201610_DFP20 / DFP201610 at (-30.0993 112.4634)
+         Placed symbol:  C124 / C_C0805_0.1UF / C0805 at (-26.9990 112.6294)
+         Placed symbol:  C125 / C_C0805_0.1UF / C0805 at (-23.1382 112.6294)
+
+
+Placed 5 of 5 applicable (5 total) symbols.
+
+-----------------------------------------------------------------------
+

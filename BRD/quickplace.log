@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : ADI_BASEBOARD_V1.brd                          )
+(    Software Version : 16.6-2015S091                                 )
+(    Date/Time        : Wed May 16 20:09:30 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  R169 / R_R0805_22R / R0805 at (16.7690 39.9154)
+         Placed symbol:  R170 / R_R0805_22R / R0805 at (21.2186 39.9154)
+         Placed symbol:  R171 / R_R0805_22R / R0805 at (25.6682 39.9154)
+         Placed symbol:  R172 / R_R0805_22R / R0805 at (30.1178 39.9154)
+         Placed symbol:  R173 / R_R0805_22R / R0805 at (34.5674 39.9154)
+         Placed symbol:  R174 / R_R0805_22R / R0805 at (39.0170 39.9154)
+
+
+Placed 6 of 6 applicable (6 total) symbols.
+
+-----------------------------------------------------------------------
+

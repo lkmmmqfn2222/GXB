@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : ADI_BASEBOARD_V1.brd                          )
+(    Software Version : 16.6-2015S088                                 )
+(    Date/Time        : Thu May 17 11:04:48 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : D:/Cadence/setting6.prm
+	Layout Name   : D:/WorkPrj/XiaobinGao/ADIS16448/BRD/ADI_BASEBOARD_V1.brd
+
+Reading...parameter_header:
+Reading...color_table_table:
+Reading...ColorParmType:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.
